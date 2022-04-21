@@ -20,6 +20,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
 [![Linkedin Badge](https://img.shields.io/badge/-FrancoOsorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-osorio/)](https://www.linkedin.com/in/franco-osorio/)
 [![Gmail Badge](https://img.shields.io/badge/-frannahuelosorio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frannahuelosorio@gmail.com)](mailto:frannahuelosorio@gmail.com)
 <!--
