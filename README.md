@@ -18,8 +18,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-[![Linkedin Badge]()
-[![Gmail Badge]()
+[![Linkedin Badge](https://img.shields.io/badge/-FrancoOsorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-osorio/)](https://www.linkedin.com/in/franco-osorio/)
+[![Gmail Badge](https://img.shields.io/badge/-frannahuelosoiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frannahuelosorio@gmail.com)](mailto:frannahuelosorio@gmail.com)
 <!--
 **FNahuelO/FNahuelO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
