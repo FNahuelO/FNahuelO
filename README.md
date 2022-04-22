@@ -1,19 +1,19 @@
-<img src="https://github.com/FNahuelO/FNahuelO/blob/main/giphy.gif" atr= "presentacion" align="center" width="50px"/>
+<img src="https://github.com/FNahuelO/FNahuelO/blob/main/giphy.gif" atr= "presentacion" align="center" width="500px"/>
 
 <h2 align="center">
   <abc>
-   soy Full Stack Developer.   
+   Soy Full Stack Developer.   
   </abc>
 </h2>
 
-<h4>
+<h4 align="center">
   <abc>
     En busca de un desafío encontré la programación que tanto me terminó gustando, pude formarme en Henry y poder adquirir experiencia desarrollando.
   </abc>  
 </h4>
 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="center">👨🏻‍💻 About Me:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-FrancoOsorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-osorio/)](https://www.linkedin.com/in/franco-osorio/)
 [![Gmail Badge](https://img.shields.io/badge/-frannahuelosorio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frannahuelosorio@gmail.com)](mailto:frannahuelosorio@gmail.com)
