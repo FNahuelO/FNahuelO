@@ -1,5 +1,6 @@
-<img src="https://github.com/FNahuelO/FNahuelO/blob/main/giphy.gif" atr= "presentacion" align="center" width="500px"/>
-
+<p align="center">
+  <img src="https://github.com/FNahuelO/FNahuelO/blob/main/giphy.gif" atr= "presentacion" width="500px"/>
+</p>
 <h2 align="center">
   <abc>
    Soy Full Stack Developer.   
