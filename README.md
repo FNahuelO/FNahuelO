@@ -1,10 +1,16 @@
 <img src="https://github.com/FNahuelO/FNahuelO/blob/main/giphy.gif" atr= "presentacion" />
 
-<h2 align="left">
+<h2 align="center">
   <abc>
    soy Full Stack Developer.   
   </abc>
 </h2>
+
+<h4>
+  <abc>
+    En busca de un desafío encontré la programación que tanto me terminó gustando, pude formarme en Henry y poder adquirir experiencia desarrollando.
+  </abc>  
+</h4>
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
