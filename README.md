@@ -1,4 +1,4 @@
-<img src="https://github.com/FNahuelO/FNahuelO/blob/main/giphy.gif" atr= "presentacion" />
+<img src="https://github.com/FNahuelO/FNahuelO/blob/main/giphy.gif" atr= "presentacion" align="center" width="50px"/>
 
 <h2 align="center">
   <abc>
